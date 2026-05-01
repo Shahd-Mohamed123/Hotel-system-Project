@@ -1,0 +1,14 @@
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\bin\Debug\Hotel Reservation System.exe.config
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\bin\Debug\Hotel Reservation System.exe
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\bin\Debug\Hotel Reservation System.pdb
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel_Reservation_System.Properties.Resources.resources
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.csproj.GenerateResource.cache
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.exe
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.pdb
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.exe.config
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel_Reservation_System.menufrm.resources
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel_Reservation_System.Booking_Form.resources
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel_Reservation_System.Rooms_Form.resources
+C:\Users\youss\OneDrive\Desktop\Hotel project\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel_Reservation_System.Admin_Form.resources

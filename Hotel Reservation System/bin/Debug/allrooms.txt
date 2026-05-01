@@ -1,0 +1,7 @@
+100,Single,100,True
+101,Single,100,True
+115,Double,150,True
+116,Double,150,True
+130,Suite,300,True
+131,Suite,300,True
+107,Single,100,True
